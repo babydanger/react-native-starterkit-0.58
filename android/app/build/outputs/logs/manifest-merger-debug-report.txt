@@ -1,0 +1,247 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Volumes/Data/Tesssssss/CoreReact0586/android/app/src/main/AndroidManifest.xml:1:1-29:12
+INJECTED from /Volumes/Data/Tesssssss/CoreReact0586/android/app/src/main/AndroidManifest.xml:1:1-29:12
+INJECTED from /Volumes/Data/Tesssssss/CoreReact0586/android/app/src/main/AndroidManifest.xml:1:1-29:12
+INJECTED from /Volumes/Data/Tesssssss/CoreReact0586/android/app/src/main/AndroidManifest.xml:1:1-29:12
+MERGED from [:react-native-gesture-handler] /Volumes/Data/Tesssssss/CoreReact0586/node_modules/react-native-gesture-handler/android/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-version-number] /Volumes/Data/Tesssssss/CoreReact0586/node_modules/react-native-version-number/android/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-image-picker] /Volumes/Data/Tesssssss/CoreReact0586/node_modules/react-native-image-picker/android/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:2:1-23:12
+MERGED from [:react-native-i18n] /Volumes/Data/Tesssssss/CoreReact0586/node_modules/react-native-i18n/android/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-fetch-blob] /Volumes/Data/Tesssssss/CoreReact0586/node_modules/react-native-fetch-blob/android/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:2:1-14:12
+MERGED from [com.facebook.react:react-native:0.58.6] /Users/toannh/.gradle/caches/transforms-1/files-1.1/react-native-0.58.6.aar/4be45650a3e35f4ff15804c73489b860/AndroidManifest.xml:2:1-15:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/toannh/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/cfd2cd9c411d775c26f3779567e826d6/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/toannh/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/6b16d6193828a3f31e21a5a8ea714340/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/toannh/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/482582c7d4a375350261dc76cd8ed5c2/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/toannh/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/30b0fe691ba87cd416d9f4ebd126afa4/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/toannh/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/00bae71d395446c87b5448d34a7f51cc/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/toannh/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/6f63a0be76f2d5a609eb38ad11231a68/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] /Users/toannh/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/b308ef656f68c7ca4d25d427bda60577/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] /Users/toannh/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/69bc455898c4de8417ad08447ebdaa61/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/toannh/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/07cb8c8c7774cd3b3b1e22eae4caf871/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/toannh/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/c7e84ef9348d9103aba54457ce9e7e1a/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/toannh/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/bd2570771164cdd625ba8e642c934899/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] /Users/toannh/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/113e2f92eca8db0c87e6577c156cc06b/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/toannh/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/e1adefdf2cbc23dd13b17d8088e1f694/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/toannh/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/8c98ec609808b092525f4e535ef90136/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] /Users/toannh/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/d7bd544f62b60d65b5775e23ed7a1e1a/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/toannh/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/445aa58c31b94a69306c75b0b4a51f74/AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/toannh/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/8374fa9236e6aa8dcd77890db4da629f/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/toannh/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/1ed1388b6c45bf3ac761b4ce8cf5b96c/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] /Users/toannh/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/2cafee6cb4e6dfb08222a5ce9969c0de/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/toannh/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/d0ccb2daf0794e1e0e8d3cbbcbfc5680/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] /Users/toannh/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/358a0ce0463bc577ae692424275cbd9a/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/toannh/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/237ccdfee08db12c0b4ed0d869df96ab/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/toannh/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/1e4990f36409a981c1b5f0519b3dbf95/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/toannh/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/2b10628c8f80d90b1308bc5fe5b7fda9/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] /Users/toannh/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/24c5c49239e7e52ddfeb7c44ac7dfb8e/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] /Users/toannh/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/d84a0ce33dd0a129b274ba45de1e4c72/AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.fresco:fresco:1.10.0] /Users/toannh/.gradle/caches/transforms-1/files-1.1/fresco-1.10.0.aar/1c802fe058a2236910bc08a0a20710b7/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.10.0] /Users/toannh/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-1.10.0.aar/84acc0670d8ae416117a42367912fd05/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:drawee:1.10.0] /Users/toannh/.gradle/caches/transforms-1/files-1.1/drawee-1.10.0.aar/1083e48df08192403aba8cd7c4e94dce/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline:1.10.0] /Users/toannh/.gradle/caches/transforms-1/files-1.1/imagepipeline-1.10.0.aar/a9fa523ec941ef616e571f5b690e3d92/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-base:1.10.0] /Users/toannh/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-1.10.0.aar/8b1d7e23886a1cbbba15e219bcf2ea0c/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/toannh/.gradle/caches/transforms-1/files-1.1/soloader-0.6.0.aar/a1138d8a308bffe480cf0586f03da1d2/AndroidManifest.xml:2:1-13:12
+MERGED from [org.webkit:android-jsc:r174650] /Users/toannh/.gradle/caches/transforms-1/files-1.1/android-jsc-r174650.aar/3012865e340a067434346540e75e5860/AndroidManifest.xml:1:1-3:12
+MERGED from [com.facebook.fresco:fbcore:1.10.0] /Users/toannh/.gradle/caches/transforms-1/files-1.1/fbcore-1.10.0.aar/ba7fe50ba2aece26cee4a093769d903a/AndroidManifest.xml:2:1-9:12
+INJECTED from /Volumes/Data/Tesssssss/CoreReact0586/android/app/src/main/AndroidManifest.xml:1:1-29:12
+INJECTED from /Volumes/Data/Tesssssss/CoreReact0586/android/app/src/main/AndroidManifest.xml:1:1-29:12
+INJECTED from /Volumes/Data/Tesssssss/CoreReact0586/android/app/src/main/AndroidManifest.xml:1:1-29:12
+	package
+		ADDED from /Volumes/Data/Tesssssss/CoreReact0586/android/app/src/main/AndroidManifest.xml:2:3-30
+		INJECTED from /Volumes/Data/Tesssssss/CoreReact0586/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Volumes/Data/Tesssssss/CoreReact0586/android/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Volumes/Data/Tesssssss/CoreReact0586/android/app/src/main/AndroidManifest.xml
+		ADDED from /Volumes/Data/Tesssssss/CoreReact0586/android/app/src/main/AndroidManifest.xml:1:1-29:12
+		INJECTED from /Volumes/Data/Tesssssss/CoreReact0586/android/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Volumes/Data/Tesssssss/CoreReact0586/android/app/src/main/AndroidManifest.xml
+		ADDED from /Volumes/Data/Tesssssss/CoreReact0586/android/app/src/main/AndroidManifest.xml:1:1-29:12
+		INJECTED from /Volumes/Data/Tesssssss/CoreReact0586/android/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Volumes/Data/Tesssssss/CoreReact0586/android/app/src/main/AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Volumes/Data/Tesssssss/CoreReact0586/android/app/src/main/AndroidManifest.xml:4:5-67
+	android:name
+		ADDED from /Volumes/Data/Tesssssss/CoreReact0586/android/app/src/main/AndroidManifest.xml:4:22-64
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /Volumes/Data/Tesssssss/CoreReact0586/android/app/src/main/AndroidManifest.xml:5:5-81
+	android:name
+		ADDED from /Volumes/Data/Tesssssss/CoreReact0586/android/app/src/main/AndroidManifest.xml:5:22-78
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from /Volumes/Data/Tesssssss/CoreReact0586/android/app/src/main/AndroidManifest.xml:6:5-77
+MERGED from [com.facebook.react:react-native:0.58.6] /Users/toannh/.gradle/caches/transforms-1/files-1.1/react-native-0.58.6.aar/4be45650a3e35f4ff15804c73489b860/AndroidManifest.xml:11:5-78
+MERGED from [com.facebook.react:react-native:0.58.6] /Users/toannh/.gradle/caches/transforms-1/files-1.1/react-native-0.58.6.aar/4be45650a3e35f4ff15804c73489b860/AndroidManifest.xml:11:5-78
+	android:name
+		ADDED from /Volumes/Data/Tesssssss/CoreReact0586/android/app/src/main/AndroidManifest.xml:6:22-75
+application
+ADDED from /Volumes/Data/Tesssssss/CoreReact0586/android/app/src/main/AndroidManifest.xml:8:5-27:19
+MERGED from [:react-native-image-picker] /Volumes/Data/Tesssssss/CoreReact0586/node_modules/react-native-image-picker/android/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:11:5-21:19
+MERGED from [:react-native-image-picker] /Volumes/Data/Tesssssss/CoreReact0586/node_modules/react-native-image-picker/android/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:11:5-21:19
+MERGED from [:react-native-fetch-blob] /Volumes/Data/Tesssssss/CoreReact0586/node_modules/react-native-fetch-blob/android/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:11:5-12:19
+MERGED from [:react-native-fetch-blob] /Volumes/Data/Tesssssss/CoreReact0586/node_modules/react-native-fetch-blob/android/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:11:5-12:19
+MERGED from [com.facebook.react:react-native:0.58.6] /Users/toannh/.gradle/caches/transforms-1/files-1.1/react-native-0.58.6.aar/4be45650a3e35f4ff15804c73489b860/AndroidManifest.xml:13:5-20
+MERGED from [com.facebook.react:react-native:0.58.6] /Users/toannh/.gradle/caches/transforms-1/files-1.1/react-native-0.58.6.aar/4be45650a3e35f4ff15804c73489b860/AndroidManifest.xml:13:5-20
+MERGED from [com.android.support:support-compat:28.0.0] /Users/toannh/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/d7bd544f62b60d65b5775e23ed7a1e1a/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] /Users/toannh/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/d7bd544f62b60d65b5775e23ed7a1e1a/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/toannh/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/445aa58c31b94a69306c75b0b4a51f74/AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/toannh/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/445aa58c31b94a69306c75b0b4a51f74/AndroidManifest.xml:22:5-23:19
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/toannh/.gradle/caches/transforms-1/files-1.1/soloader-0.6.0.aar/a1138d8a308bffe480cf0586f03da1d2/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/toannh/.gradle/caches/transforms-1/files-1.1/soloader-0.6.0.aar/a1138d8a308bffe480cf0586f03da1d2/AndroidManifest.xml:11:5-20
+MERGED from [org.webkit:android-jsc:r174650] /Users/toannh/.gradle/caches/transforms-1/files-1.1/android-jsc-r174650.aar/3012865e340a067434346540e75e5860/AndroidManifest.xml:2:3-17
+MERGED from [org.webkit:android-jsc:r174650] /Users/toannh/.gradle/caches/transforms-1/files-1.1/android-jsc-r174650.aar/3012865e340a067434346540e75e5860/AndroidManifest.xml:2:3-17
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] /Users/toannh/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/d7bd544f62b60d65b5775e23ed7a1e1a/AndroidManifest.xml:22:18-91
+	android:label
+		ADDED from /Volumes/Data/Tesssssss/CoreReact0586/android/app/src/main/AndroidManifest.xml:10:7-39
+	android:roundIcon
+		ADDED from /Volumes/Data/Tesssssss/CoreReact0586/android/app/src/main/AndroidManifest.xml:12:7-52
+	android:icon
+		ADDED from /Volumes/Data/Tesssssss/CoreReact0586/android/app/src/main/AndroidManifest.xml:11:7-41
+	android:allowBackup
+		ADDED from /Volumes/Data/Tesssssss/CoreReact0586/android/app/src/main/AndroidManifest.xml:13:7-34
+	android:theme
+		ADDED from /Volumes/Data/Tesssssss/CoreReact0586/android/app/src/main/AndroidManifest.xml:14:7-38
+	android:name
+		ADDED from /Volumes/Data/Tesssssss/CoreReact0586/android/app/src/main/AndroidManifest.xml:9:7-38
+activity#com.corereact0586.MainActivity
+ADDED from /Volumes/Data/Tesssssss/CoreReact0586/android/app/src/main/AndroidManifest.xml:15:7-25:18
+	android:label
+		ADDED from /Volumes/Data/Tesssssss/CoreReact0586/android/app/src/main/AndroidManifest.xml:17:9-41
+	android:windowSoftInputMode
+		ADDED from /Volumes/Data/Tesssssss/CoreReact0586/android/app/src/main/AndroidManifest.xml:19:9-51
+	android:configChanges
+		ADDED from /Volumes/Data/Tesssssss/CoreReact0586/android/app/src/main/AndroidManifest.xml:18:9-79
+	android:name
+		ADDED from /Volumes/Data/Tesssssss/CoreReact0586/android/app/src/main/AndroidManifest.xml:16:9-37
+intent-filter#action:name:android.intent.action.DOWNLOAD_COMPLETE+action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Volumes/Data/Tesssssss/CoreReact0586/android/app/src/main/AndroidManifest.xml:20:9-24:25
+action#android.intent.action.MAIN
+ADDED from /Volumes/Data/Tesssssss/CoreReact0586/android/app/src/main/AndroidManifest.xml:21:13-65
+	android:name
+		ADDED from /Volumes/Data/Tesssssss/CoreReact0586/android/app/src/main/AndroidManifest.xml:21:21-62
+category#android.intent.category.LAUNCHER
+ADDED from /Volumes/Data/Tesssssss/CoreReact0586/android/app/src/main/AndroidManifest.xml:22:13-73
+	android:name
+		ADDED from /Volumes/Data/Tesssssss/CoreReact0586/android/app/src/main/AndroidManifest.xml:22:23-70
+action#android.intent.action.DOWNLOAD_COMPLETE
+ADDED from /Volumes/Data/Tesssssss/CoreReact0586/android/app/src/main/AndroidManifest.xml:23:6-70
+	android:name
+		ADDED from /Volumes/Data/Tesssssss/CoreReact0586/android/app/src/main/AndroidManifest.xml:23:14-68
+activity#com.facebook.react.devsupport.DevSettingsActivity
+ADDED from /Volumes/Data/Tesssssss/CoreReact0586/android/app/src/main/AndroidManifest.xml:26:7-84
+	android:name
+		ADDED from /Volumes/Data/Tesssssss/CoreReact0586/android/app/src/main/AndroidManifest.xml:26:17-81
+uses-sdk
+INJECTED from /Volumes/Data/Tesssssss/CoreReact0586/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Volumes/Data/Tesssssss/CoreReact0586/android/app/src/main/AndroidManifest.xml
+INJECTED from /Volumes/Data/Tesssssss/CoreReact0586/android/app/src/main/AndroidManifest.xml
+MERGED from [:react-native-gesture-handler] /Volumes/Data/Tesssssss/CoreReact0586/node_modules/react-native-gesture-handler/android/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-gesture-handler] /Volumes/Data/Tesssssss/CoreReact0586/node_modules/react-native-gesture-handler/android/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-version-number] /Volumes/Data/Tesssssss/CoreReact0586/node_modules/react-native-version-number/android/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-version-number] /Volumes/Data/Tesssssss/CoreReact0586/node_modules/react-native-version-number/android/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-image-picker] /Volumes/Data/Tesssssss/CoreReact0586/node_modules/react-native-image-picker/android/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-image-picker] /Volumes/Data/Tesssssss/CoreReact0586/node_modules/react-native-image-picker/android/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-i18n] /Volumes/Data/Tesssssss/CoreReact0586/node_modules/react-native-i18n/android/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-i18n] /Volumes/Data/Tesssssss/CoreReact0586/node_modules/react-native-i18n/android/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-fetch-blob] /Volumes/Data/Tesssssss/CoreReact0586/node_modules/react-native-fetch-blob/android/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-fetch-blob] /Volumes/Data/Tesssssss/CoreReact0586/node_modules/react-native-fetch-blob/android/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.58.6] /Users/toannh/.gradle/caches/transforms-1/files-1.1/react-native-0.58.6.aar/4be45650a3e35f4ff15804c73489b860/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.58.6] /Users/toannh/.gradle/caches/transforms-1/files-1.1/react-native-0.58.6.aar/4be45650a3e35f4ff15804c73489b860/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/toannh/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/cfd2cd9c411d775c26f3779567e826d6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/toannh/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/cfd2cd9c411d775c26f3779567e826d6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/toannh/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/6b16d6193828a3f31e21a5a8ea714340/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/toannh/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/6b16d6193828a3f31e21a5a8ea714340/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/toannh/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/482582c7d4a375350261dc76cd8ed5c2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/toannh/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/482582c7d4a375350261dc76cd8ed5c2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/toannh/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/30b0fe691ba87cd416d9f4ebd126afa4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/toannh/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/30b0fe691ba87cd416d9f4ebd126afa4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/toannh/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/00bae71d395446c87b5448d34a7f51cc/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/toannh/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/00bae71d395446c87b5448d34a7f51cc/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/toannh/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/6f63a0be76f2d5a609eb38ad11231a68/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/toannh/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/6f63a0be76f2d5a609eb38ad11231a68/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /Users/toannh/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/b308ef656f68c7ca4d25d427bda60577/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /Users/toannh/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/b308ef656f68c7ca4d25d427bda60577/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /Users/toannh/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/69bc455898c4de8417ad08447ebdaa61/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /Users/toannh/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/69bc455898c4de8417ad08447ebdaa61/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/toannh/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/07cb8c8c7774cd3b3b1e22eae4caf871/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/toannh/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/07cb8c8c7774cd3b3b1e22eae4caf871/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/toannh/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/c7e84ef9348d9103aba54457ce9e7e1a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/toannh/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/c7e84ef9348d9103aba54457ce9e7e1a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/toannh/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/bd2570771164cdd625ba8e642c934899/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/toannh/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/bd2570771164cdd625ba8e642c934899/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /Users/toannh/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/113e2f92eca8db0c87e6577c156cc06b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /Users/toannh/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/113e2f92eca8db0c87e6577c156cc06b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/toannh/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/e1adefdf2cbc23dd13b17d8088e1f694/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/toannh/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/e1adefdf2cbc23dd13b17d8088e1f694/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/toannh/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/8c98ec609808b092525f4e535ef90136/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/toannh/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/8c98ec609808b092525f4e535ef90136/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /Users/toannh/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/d7bd544f62b60d65b5775e23ed7a1e1a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /Users/toannh/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/d7bd544f62b60d65b5775e23ed7a1e1a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/toannh/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/445aa58c31b94a69306c75b0b4a51f74/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/toannh/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/445aa58c31b94a69306c75b0b4a51f74/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/toannh/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/8374fa9236e6aa8dcd77890db4da629f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/toannh/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/8374fa9236e6aa8dcd77890db4da629f/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/toannh/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/1ed1388b6c45bf3ac761b4ce8cf5b96c/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/toannh/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/1ed1388b6c45bf3ac761b4ce8cf5b96c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /Users/toannh/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/2cafee6cb4e6dfb08222a5ce9969c0de/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /Users/toannh/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/2cafee6cb4e6dfb08222a5ce9969c0de/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/toannh/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/d0ccb2daf0794e1e0e8d3cbbcbfc5680/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/toannh/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/d0ccb2daf0794e1e0e8d3cbbcbfc5680/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /Users/toannh/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/358a0ce0463bc577ae692424275cbd9a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /Users/toannh/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/358a0ce0463bc577ae692424275cbd9a/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/toannh/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/237ccdfee08db12c0b4ed0d869df96ab/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/toannh/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/237ccdfee08db12c0b4ed0d869df96ab/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/toannh/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/1e4990f36409a981c1b5f0519b3dbf95/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/toannh/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/1e4990f36409a981c1b5f0519b3dbf95/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/toannh/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/2b10628c8f80d90b1308bc5fe5b7fda9/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/toannh/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/2b10628c8f80d90b1308bc5fe5b7fda9/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/toannh/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/24c5c49239e7e52ddfeb7c44ac7dfb8e/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/toannh/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/24c5c49239e7e52ddfeb7c44ac7dfb8e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /Users/toannh/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/d84a0ce33dd0a129b274ba45de1e4c72/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /Users/toannh/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/d84a0ce33dd0a129b274ba45de1e4c72/AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.fresco:fresco:1.10.0] /Users/toannh/.gradle/caches/transforms-1/files-1.1/fresco-1.10.0.aar/1c802fe058a2236910bc08a0a20710b7/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:1.10.0] /Users/toannh/.gradle/caches/transforms-1/files-1.1/fresco-1.10.0.aar/1c802fe058a2236910bc08a0a20710b7/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.10.0] /Users/toannh/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-1.10.0.aar/84acc0670d8ae416117a42367912fd05/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.10.0] /Users/toannh/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-1.10.0.aar/84acc0670d8ae416117a42367912fd05/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:1.10.0] /Users/toannh/.gradle/caches/transforms-1/files-1.1/drawee-1.10.0.aar/1083e48df08192403aba8cd7c4e94dce/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:1.10.0] /Users/toannh/.gradle/caches/transforms-1/files-1.1/drawee-1.10.0.aar/1083e48df08192403aba8cd7c4e94dce/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.10.0] /Users/toannh/.gradle/caches/transforms-1/files-1.1/imagepipeline-1.10.0.aar/a9fa523ec941ef616e571f5b690e3d92/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.10.0] /Users/toannh/.gradle/caches/transforms-1/files-1.1/imagepipeline-1.10.0.aar/a9fa523ec941ef616e571f5b690e3d92/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.10.0] /Users/toannh/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-1.10.0.aar/8b1d7e23886a1cbbba15e219bcf2ea0c/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.10.0] /Users/toannh/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-1.10.0.aar/8b1d7e23886a1cbbba15e219bcf2ea0c/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/toannh/.gradle/caches/transforms-1/files-1.1/soloader-0.6.0.aar/a1138d8a308bffe480cf0586f03da1d2/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/toannh/.gradle/caches/transforms-1/files-1.1/soloader-0.6.0.aar/a1138d8a308bffe480cf0586f03da1d2/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.fresco:fbcore:1.10.0] /Users/toannh/.gradle/caches/transforms-1/files-1.1/fbcore-1.10.0.aar/ba7fe50ba2aece26cee4a093769d903a/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:1.10.0] /Users/toannh/.gradle/caches/transforms-1/files-1.1/fbcore-1.10.0.aar/ba7fe50ba2aece26cee4a093769d903a/AndroidManifest.xml:5:5-7:41
+INJECTED from /Volumes/Data/Tesssssss/CoreReact0586/android/app/src/main/AndroidManifest.xml
+INJECTED from /Volumes/Data/Tesssssss/CoreReact0586/android/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Volumes/Data/Tesssssss/CoreReact0586/android/app/src/main/AndroidManifest.xml
+		ADDED from /Volumes/Data/Tesssssss/CoreReact0586/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Volumes/Data/Tesssssss/CoreReact0586/android/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Volumes/Data/Tesssssss/CoreReact0586/android/app/src/main/AndroidManifest.xml
+		ADDED from /Volumes/Data/Tesssssss/CoreReact0586/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Volumes/Data/Tesssssss/CoreReact0586/android/app/src/main/AndroidManifest.xml
+provider#com.imagepicker.FileProvider
+ADDED from [:react-native-image-picker] /Volumes/Data/Tesssssss/CoreReact0586/node_modules/react-native-image-picker/android/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:12:9-20:20
+	android:grantUriPermissions
+		ADDED from [:react-native-image-picker] /Volumes/Data/Tesssssss/CoreReact0586/node_modules/react-native-image-picker/android/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:16:13-47
+	android:authorities
+		ADDED from [:react-native-image-picker] /Volumes/Data/Tesssssss/CoreReact0586/node_modules/react-native-image-picker/android/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:14:13-60
+	android:exported
+		ADDED from [:react-native-image-picker] /Volumes/Data/Tesssssss/CoreReact0586/node_modules/react-native-image-picker/android/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:15:13-37
+	android:name
+		ADDED from [:react-native-image-picker] /Volumes/Data/Tesssssss/CoreReact0586/node_modules/react-native-image-picker/android/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:13:13-56
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from [:react-native-image-picker] /Volumes/Data/Tesssssss/CoreReact0586/node_modules/react-native-image-picker/android/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:17:13-19:58
+	android:resource
+		ADDED from [:react-native-image-picker] /Volumes/Data/Tesssssss/CoreReact0586/node_modules/react-native-image-picker/android/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:19:17-55
+	android:name
+		ADDED from [:react-native-image-picker] /Volumes/Data/Tesssssss/CoreReact0586/node_modules/react-native-image-picker/android/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:18:17-67
+uses-permission#android.permission.READ_PHONE_STATE
+IMPLIED from /Volumes/Data/Tesssssss/CoreReact0586/android/app/src/main/AndroidManifest.xml:1:1-29:12 reason: org.webkit.android_jsc has a targetSdkVersion < 4
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+IMPLIED from /Volumes/Data/Tesssssss/CoreReact0586/android/app/src/main/AndroidManifest.xml:1:1-29:12 reason: org.webkit.android_jsc requested WRITE_EXTERNAL_STORAGE

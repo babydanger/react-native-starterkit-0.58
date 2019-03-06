@@ -1,0 +1,4 @@
+#Wed Mar 06 13:35:03 ICT 2019
+base.0=/Volumes/Data/Tesssssss/CoreReact0586/android/app/build/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex

@@ -1,0 +1,22 @@
+dependencies: \
+  /Volumes/Data/Tesssssss/CoreReact0586/node_modules/react-native/React/Views/ScrollView/RCTScrollContentView.m \
+  /Volumes/Data/Tesssssss/CoreReact0586/node_modules/react-native/React/Views/ScrollView/RCTScrollContentView.h \
+  /Volumes/Data/Tesssssss/CoreReact0586/node_modules/react-native/React/Views/RCTView.h \
+  /Volumes/Data/Tesssssss/CoreReact0586/node_modules/react-native/React/Views/RCTBorderStyle.h \
+  /Volumes/Data/Tesssssss/CoreReact0586/node_modules/react-native/React/Views/RCTComponent.h \
+  /Volumes/Data/Tesssssss/CoreReact0586/node_modules/react-native/React/Views/RCTPointerEvents.h \
+  /Volumes/Data/Tesssssss/CoreReact0586/node_modules/react-native/React/Base/RCTAssert.h \
+  /Volumes/Data/Tesssssss/CoreReact0586/node_modules/react-native/React/Base/RCTDefines.h \
+  /Volumes/Data/Tesssssss/CoreReact0586/node_modules/react-native/React/Views/UIView+React.h \
+  /Volumes/Data/Tesssssss/CoreReact0586/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGEnums.h \
+  /Volumes/Data/Tesssssss/CoreReact0586/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGMacros.h \
+  /Volumes/Data/Tesssssss/CoreReact0586/node_modules/react-native/React/Views/ScrollView/RCTScrollView.h \
+  /Volumes/Data/Tesssssss/CoreReact0586/node_modules/react-native/React/Views/RCTAutoInsetsProtocol.h \
+  /Volumes/Data/Tesssssss/CoreReact0586/node_modules/react-native/React/Base/RCTEventDispatcher.h \
+  /Volumes/Data/Tesssssss/CoreReact0586/node_modules/react-native/React/Base/RCTBridge.h \
+  /Volumes/Data/Tesssssss/CoreReact0586/node_modules/react-native/React/Base/RCTBridgeDelegate.h \
+  /Volumes/Data/Tesssssss/CoreReact0586/node_modules/react-native/React/Base/RCTJavaScriptLoader.h \
+  /Volumes/Data/Tesssssss/CoreReact0586/node_modules/react-native/React/Base/RCTBridgeModule.h \
+  /Volumes/Data/Tesssssss/CoreReact0586/node_modules/react-native/React/Base/RCTFrameUpdate.h \
+  /Volumes/Data/Tesssssss/CoreReact0586/node_modules/react-native/React/Base/RCTInvalidating.h \
+  /Volumes/Data/Tesssssss/CoreReact0586/node_modules/react-native/React/Views/ScrollView/RCTScrollableProtocol.h
