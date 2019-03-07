@@ -10,7 +10,6 @@ export const SCREEN_3X = Dimens.SCALE_3X;
 
 // language
 export const LANGUAGE_ENGLISH = 'en';
-export const LANGUAGE_CHINA = 'zh';
 export const LANGUAGE_VIETNAM = 'vi';
 export const LANGUAGE_DEFAULT = LANGUAGE_ENGLISH;
 
@@ -28,45 +27,7 @@ export const TOKEN = 'token';
 export const TOKEN_TYPE = 'token_type';
 export const ACCOUNT_ID = 'account_id';
 export const KEY_LANGUAGE = 'key_language';
-export const CONFIG_COMMON = 'config_common';
-export const PROPERTY_TYPES = 'property_types';
 
-// asset type
-export const ASSET_TYPE_DOCUMENT = 'document';
-export const ASSET_TYPE_THUMBNAIL = 'thumbnail';
-export const ASSET_TYPE_IMAGE = 'image';
-export const ASSET_TYPE_YOUTUBE = 'youtube';
-export const ASSET_TYPE_360 = 'virtual_tour';
-export const ASSET_TYPE_PHOTO = 'photo';
-
-// walk through
-export const WALK_THROUGH = 'walk_through';
-
-// paging
 export const LIMIT_NUMBER = 20;
 export const LIMIT = `${LIMIT_NUMBER}`;
 
-// package name
-export const PACKAGE_NAME = 'IWD666';
-
-// price status
-export const PRICE_STATUS_INACTIVE = 4;
-export const PRICE_STATUS_AVAILABLE = 3;
-export const PRICE_STATUS_RESERVED = 2;
-export const PRICE_STATUS_UNCONDITIONAL_EXCHANGES = 1;
-export const PRICE_STATUS_SETTLED = 5;
-
-export const SALE_PROJECT_PENDING = 0;
-export const SALE_PROJECT_APPROVED = 1;
-export const SALE_PROJECT_REJECTED = 2;
-
-export const ASPECTS = {
-    n: 'North',
-    ne: 'Northeast',
-    e: 'East',
-    se: 'Southeast',
-    s: 'South',
-    sw: 'Southwest',
-    w: 'West',
-    nw: 'Northwest'
-};

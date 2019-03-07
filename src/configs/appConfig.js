@@ -6,12 +6,11 @@ import * as Dimens from './dimens';
 import * as Utils from './utils';
 import * as Colors from './colors';
 import * as HeaderUtils from './headerUtils';
-import * as Images from '../resources';
 import * as FlatListUtils from './flatListUtils';
 import * as ActionTypes from './actionTypes';
 import * as Configs from '../services/configs';
 import * as Storage from './asyncStorage';
-import * as Img from '../images';
+import * as Images from '../images';
 
 export {
     AppStyles,
@@ -26,5 +25,4 @@ export {
     ActionTypes,
     QS,
     Configs,
-    Img
 };
