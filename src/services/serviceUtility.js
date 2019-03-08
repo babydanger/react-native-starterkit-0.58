@@ -22,8 +22,8 @@ export const processResponseService = response => ({
  * @param {*} params
  */
 export const getFormData = params => {
-    var formDatas = new FormData();
-    Object.keys(params).map(key => formDatas.append(key, encodeURIComponent(params[key])));
+    const formDatas = new FormData();
+    Object.keys(params).forEach(key => formDatas.append(key, params[key]));
     return formDatas;
 };
 
